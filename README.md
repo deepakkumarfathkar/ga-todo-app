@@ -3,3 +3,5 @@
 * npm i
 * npm start
 * vercel --prod
+### vercil token guide after creating vercel.yml
+* https://vercel.com/guides/how-can-i-use-github-actions-with-vercel
